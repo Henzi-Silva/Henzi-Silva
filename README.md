@@ -22,4 +22,4 @@ Currently, I am also exploring the next frontier of the **Web3** on the Internet
 - **Security:** Solving challenges on **Hack The Box**.
 - **Hobbies:** Working on cars, coding, and hardware.
 
-🚀 Check out my: **[Projects](your-link-here)**
+🚀 Check out my: **[Projects](https://github.com/Henzi-Silva?tab=repositories)**
