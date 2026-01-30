@@ -1,42 +1,25 @@
-## Hi there 👋
+# Hey there! ☝️
 
-I'm Henzi, a Full-Stack Developer in training, currently building my way through a comprehensive web development journey. Much like the "design engineer" mindset, I don't just want to learn code—I want to build and ship things that work.
-🚀 What I'm working on
+I'm [**Henzi**](https://github.com/Henzi-Silva), a full-stack web developer based in Brazil.
 
-Right now, I'm deep-diving into Full-Stack Web Development, moving from crafting pixel-perfect front-ends to architecting robust back-ends and exploring the world of Web3.
-🛠️ Tech Stack & Tools
+I design and build whatever I can imagine. If an idea pops into my head, chances are I'll build it and ship it.
 
-The Fundamentals:
+Building Vexy: automating appointments and lead capture with AI-powered chatbots and callbots.
 
-    Front-End: HTML5, CSS3 (Flexbox & Grid), Bootstrap 5
+My main tech stack includes **React (Hooks)**, **Node.js**, **Express**, and **PostgreSQL**.
 
-    JavaScript: ES6, DOM Manipulation, jQuery
+I'm also exploring the next frontier of **Web3** on the Internet Computer.
 
-    Back-End: Node.js, Express.js, EJS, RESTful APIs
+### The Essentials
+- **Web:** React.js, Node.js, Express, EJS, RESTful APIs, JavaScript (ES6)
+- **Design & Tools:** Bootstrap 5, Flexbox, Grid, Git, Bash
+- **Web3:** Blockchain, Token contracts, and NFT logic
 
-Data & Deployment:
+### Fun Facts:
+- **Passion:** Reviving and maintaining classic Renaults.
+- **Privacy:** Advocate for digital sovereignty and the Proton ecosystem.
+- **System:** Developing on **CachyOS** (Arch-based Linux).
+- **Security:** Solving challenges on **Hack The Box**.
+- **Hobbies:** Working on cars, building digital tools, and hardware tinkering.
 
-    Databases: SQL, PostgreSQL
-
-    Tools: Bash Command Line, Git & GitHub
-
-    Deployment: GitHub Pages
-
-The Next Frontier:
-
-    Frameworks: React.js & React Hooks
-
-    Web3 & Blockchain: Token contracts, NFT minting, and ICP (Internet Computer) development
-
-📂 Projects
-
-I'm currently building a portfolio of public repositories. My favorite project so far is [Link to your best project, e.g., a Bootstrap site or a Node app].
-⚡ Fun Facts
-
-    🔭 I’m currently learning how to mint and trade NFTs on the blockchain.
-
-    🔐 I'm focused on mastering Authentication and security best practices.
-
-    🏗️ Hobbies: [Add a hobby, e.g., PC hardware], [Add another, e.g., Gaming], and building digital tools.
-
-    💬 Ask me about: Why I chose PostgreSQL over NoSQL.
+🚀 Check out my: **[Projects](your-link-here)**
