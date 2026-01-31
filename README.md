@@ -12,7 +12,7 @@ Currently, I am also exploring the next frontier of the **Web3** on the Internet
 
 ### The Essentials
 - **Web:** React.js, Express, EJS, RESTful API, JavaScript (ES6)
-- **Design & Tools:** Bootstrap 5, Flexbox, Grid, Git, Bash
+- **Design & Tools:** Bootstrap 5, Flexbox, Tailwind CSS, Grid, Git, Bash
 - **Web3:** Blockchain, Token contracts, and NFT logic
 
 ### Fun Facts:
