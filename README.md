@@ -6,12 +6,12 @@ I make and design whatever I can think of. If an idea strikes my mind, it is lik
 
 Making Vexy: Creating automation solutions for appointments and lead generation using AI-based chatbots and callbots.
 
-My primary technologies are **Next.js**, **TypeScript**, **Node.js**, and **PostgreSQL**.
+My primary technologies are **NextJS**, **TypeScript**, **NodeJS**, and **PostgreSQL**.
 
 Currently, I am also exploring the next frontier of the **Web3** on the Internet Computer.
 
 ### The Essentials
-- **Web:** React.js, Express, EJS, RESTful API, JavaScript (ES6)
+- **Web:** ReactJS, ExpressJS, EJS, RESTful API, JavaScript (ES6)
 - **Design & Tools:** Bootstrap 5, Flexbox, Tailwind CSS, Grid, Git, Bash
 - **Web3:** Blockchain, Token contracts, and NFT logic
 
