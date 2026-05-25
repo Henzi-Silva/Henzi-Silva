@@ -8,12 +8,11 @@ Making Vexy: Creating automation solutions for appointments and lead generation 
 
 My primary technologies are **NextJS**, **TypeScript**, **NodeJS**, and **PostgreSQL**.
 
-Currently, I am also exploring the next frontier of the **Web3** on the Internet Computer.
-
 ### The Essentials
-- **Web:** ReactJS, ExpressJS, EJS, RESTful API, JavaScript (ES6)
-- **Design & Tools:** Bootstrap 5, Flexbox, Tailwind CSS, Grid, Git, Bash
-- **Web3:** Blockchain, Token contracts, and NFT logic
+- **Frontend:** Next.js, React, TypeScript, JavaScript (ES6)
+- **Styling & UI:** Tailwind CSS, shadcn/ui
+- **Backend & Database:** Supabase, Node.js, PostgreSQL
+- **Tools:** npm, Git, Bash
 
 ### Fun Facts:
 - **Passion:** Reviving and maintaining my Renault.
